@@ -10,3 +10,8 @@
 - [ ] Localização
 - [ ] Pega paciente
 - [ ] Deixa paciente
+
+## Equipe
+### <a href = "http://github.com/PauloE314">Paulo Eduardo</a>
+### <a href = "http://github.com/petruspierre">Petrus Pierre</a>
+### <a href = "http://github.com/RaquelPM">Raquel Patrício</a>
