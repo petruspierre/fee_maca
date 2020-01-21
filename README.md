@@ -4,7 +4,7 @@
 * <a href="https://github.com/petruspierre/fee_maca/blob/master/ideia.md">Ideia</a>
 
 ## Checklist
-- [ ] Submeter
+- [X] Submeter
 - [ ] Montagem
 - [ ] Movimentação
 - [ ] Localização
