@@ -9,7 +9,8 @@ class Samuquinha{
 		Samuquinha(int motores[2][3]);
 		int goTo(int x, int y);
 		int goBack();
-		//void frente();
+		void move.foward();
+		void setSpeed();
 	
 	// Vari�veis e m�todos internos
 	private:
